@@ -5,3 +5,4 @@ int main() {
     return 0;
 }
 // bitwise oporator in C code
+Hi It  is first code in github
