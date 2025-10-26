@@ -13,3 +13,8 @@ int main(){
     }
     printf("These are the subarrays ");
 }
+int arrays {
+    int main(){
+        
+    }
+}
